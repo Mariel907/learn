@@ -1,5 +1,5 @@
 ﻿using System;
-/*
+
 namespace Project_Program_104
 {
     class Array
@@ -29,8 +29,8 @@ namespace Project_Program_104
             }
             //output Volvo BMW Ford Mazda
 
-*/
-            /*
+
+            
 
             // Sort an array
 
@@ -51,10 +51,10 @@ namespace Project_Program_104
             {
                 Console.WriteLine(i);
             }
-            */
+            
 
             // output BMW ford Mazda Volvo 1 5 8 9
-/*   
+    
             int[] myNumbers = { 5, 1, 8, 9 };
             Console.WriteLine(myNumbers.Max());  // largest value
             Console.WriteLine(myNumbers.Min());  // smallest value
