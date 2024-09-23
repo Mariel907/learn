@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Reflection.PortableExecutable;
 using System.Xml.Linq;
-
-
 namespace inherit
 {
     class Inheritance
