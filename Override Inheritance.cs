@@ -53,7 +53,7 @@ namespace inherit
             Console.WriteLine();
             Person01 d = new Person01(name1, age1);
             b.game();
-            Console.WriteLine("\nSibling/s Name");
+            Console.WriteLine("\nSibling/s Information");
             foreach (var item in children)
             {
                 Console.WriteLine($"Name: {item.name}\nAge: {item.age}\nGender: {item.gender}\n");
