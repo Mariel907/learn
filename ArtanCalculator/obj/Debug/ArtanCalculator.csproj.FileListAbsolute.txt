@@ -1,0 +1,10 @@
+C:\Users\Mariel\source\repos\ArtanCalculator\ArtanCalculator\bin\Debug\ArtanCalculator.exe.config
+C:\Users\Mariel\source\repos\ArtanCalculator\ArtanCalculator\bin\Debug\ArtanCalculator.exe
+C:\Users\Mariel\source\repos\ArtanCalculator\ArtanCalculator\bin\Debug\ArtanCalculator.pdb
+C:\Users\Mariel\source\repos\ArtanCalculator\ArtanCalculator\obj\Debug\ArtanCalculator.csproj.AssemblyReference.cache
+C:\Users\Mariel\source\repos\ArtanCalculator\ArtanCalculator\obj\Debug\ArtanCalculator.Form1.resources
+C:\Users\Mariel\source\repos\ArtanCalculator\ArtanCalculator\obj\Debug\ArtanCalculator.Properties.Resources.resources
+C:\Users\Mariel\source\repos\ArtanCalculator\ArtanCalculator\obj\Debug\ArtanCalculator.csproj.GenerateResource.cache
+C:\Users\Mariel\source\repos\ArtanCalculator\ArtanCalculator\obj\Debug\ArtanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Mariel\source\repos\ArtanCalculator\ArtanCalculator\obj\Debug\ArtanCalculator.exe
+C:\Users\Mariel\source\repos\ArtanCalculator\ArtanCalculator\obj\Debug\ArtanCalculator.pdb
